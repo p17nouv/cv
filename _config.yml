@@ -1,6 +1,6 @@
 # Site
 repository: p17nouv/cv
-#favicon: images/favicon.ico
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -46,14 +46,14 @@ instagram_username: elenoubiii_
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/myself.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Eleni and I'm a undergraduate Computer Science Student. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Eleni and I'm a undergraduate Computer Science Student. As well as studying Computer Science I also have experience making software and web apps. I haven't got any work experience yet, but I gained teamwork and leadership skills from otherpart time jobs and volunteering.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>SQL</mark> and <mark>DataBases</mark> in general.
 
 content:
-  - title: Projects # Title for the section
+  - title: Hobbies # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -93,8 +93,8 @@ content:
         title: Ionian University
         caption: 2017 - still
         sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        #quote: >
+         # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -108,9 +108,6 @@ content:
       - Gaming
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
