@@ -50,7 +50,7 @@ about_profile_image: images/myself.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Eleni and I'm a undergraduate Computer Science Student. As well as studying Computer Science I also have experience making software and web apps. I haven't got any work experience yet, but I gained teamwork and leadership skills from otherpart time jobs and volunteering.
 
-  I am most skilled in: <mark>SQL</mark> and <mark>DataBases</mark> in general.
+  I am most skilled in: SQL and DataBases in general.
 
 content:
   - title: Hobbies # Title for the section
